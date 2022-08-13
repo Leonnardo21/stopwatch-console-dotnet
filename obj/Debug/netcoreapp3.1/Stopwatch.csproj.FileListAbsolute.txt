@@ -1,0 +1,14 @@
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.exe
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.deps.json
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.json
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.runtimeconfig.dev.json
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\bin\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.AssemblyReference.cache
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.dll
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.pdb
+C:\Users\leoso\source\repos\Balta.io\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.genruntimeconfig.cache
